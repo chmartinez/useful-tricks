@@ -18,4 +18,4 @@ git filter-branch --commit-filter '
 
 ```
 What I did was to search for all the commits were the committer's name was "christian" and re-write them with a new committer name and a new author's email. And that's it!
-Thanks @kanzure and its awesome gist: https://gist.github.com/kanzure/5558267
+Thanks to @kanzure and its awesome gist: https://gist.github.com/kanzure/5558267
